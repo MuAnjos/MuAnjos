@@ -1,30 +1,26 @@
-# Murilo Anjos
+# Hi, I'm Murilo.
 
-**Full Stack Developer** · Node.js · NestJS · TypeScript · React · Next.js
+Software Developer at Compass UOL, working across backend and frontend with Node.js, NestJS, TypeScript, React, and Next.js.
 
-I build APIs, integrations, and interfaces for web and mobile applications. My work brings together backend development, frontend delivery, testing, and collaboration with product and QA teams.
+Information Systems graduate from IFBA, Vitória da Conquista.
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="headings/experience-dark.svg"><img alt="Experience" src="headings/experience-light.svg"></picture>
+*From business problems to working software.*
 
-At Compass UOL, I've worked on projects across telecommunications, e-commerce, and automotive technology.
+## <picture><source media="(prefers-color-scheme: dark)" srcset="headings/tech-stack-dark.svg"><img alt="Tech stack" src="headings/tech-stack-light.svg"></picture>
 
-- **Vivo** — modernizing authentication services and building a prepaid credit-consumption feature under a regulatory deadline.
-- **Natura** — developing reusable React and Next.js components for e-commerce microfrontends.
-- **Yamaha Motor USA** — implementing the backend of a product listing page and its integrations as part of a migration to NestJS microservices.
-
-I also developed **Controle Mestre**, an administrative platform for seven operational areas, using Next.js, Node.js, PostgreSQL, and Prisma.
-
-## <picture><source media="(prefers-color-scheme: dark)" srcset="headings/tools-dark.svg"><img alt="Tools I work with" src="headings/tools-light.svg"></picture>
-
-- **Backend:** Node.js, NestJS, TypeScript, REST APIs
-- **Frontend:** React, Next.js, React Native
-- **Data:** PostgreSQL, MySQL, MongoDB, Redis
-- **Quality and delivery:** Jest, Stryker, Docker, Azure, CI/CD
-
-## <picture><source media="(prefers-color-scheme: dark)" srcset="headings/certifications-dark.svg"><img alt="Certifications" src="headings/certifications-light.svg"></picture>
-
-AWS Certified Developer – Associate · AWS Certified Cloud Practitioner · Oracle Fusion AI Agent Studio Foundations
+![TypeScript](https://img.shields.io/badge/TypeScript-681e25?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-681e25?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-681e25?style=flat-square&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-681e25?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-681e25?style=flat-square&logo=nextdotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-681e25?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="headings/contact-dark.svg"><img alt="Get in touch" src="headings/contact-light.svg"></picture>
 
 [LinkedIn](https://www.linkedin.com/in/murilo-anjos/) · [Email](mailto:muuriloanjos.dev@gmail.com)
+
+## <picture><source media="(prefers-color-scheme: dark)" srcset="headings/certifications-dark.svg"><img alt="Certifications" src="headings/certifications-light.svg"></picture>
+
+- AWS Certified Developer – Associate
+- AWS Certified Cloud Practitioner
+- Oracle Fusion AI Agent Studio Foundations

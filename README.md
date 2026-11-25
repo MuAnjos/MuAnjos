@@ -1,4 +1,4 @@
-# Hi, I'm Murilo.
+# <picture><source media="(prefers-color-scheme: dark)" srcset="headings/intro-dark.svg"><img alt="Hi, I'm Murilo." src="headings/intro-light.svg"></picture>
 
 Software Developer at Compass UOL, working across backend and frontend with Node.js, NestJS, TypeScript, React, and Next.js.
 
@@ -17,7 +17,8 @@ Information Systems graduate from IFBA, Vitória da Conquista.
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="headings/contact-dark.svg"><img alt="Get in touch" src="headings/contact-light.svg"></picture>
 
-[LinkedIn](https://www.linkedin.com/in/murilo-anjos/) · [Email](mailto:muuriloanjos.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-681e25?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-anjos/)
+[![Email](https://img.shields.io/badge/Email-681e25?style=flat-square&logo=gmail&logoColor=white)](mailto:muuriloanjos.dev@gmail.com)
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="headings/certifications-dark.svg"><img alt="Certifications" src="headings/certifications-light.svg"></picture>
 

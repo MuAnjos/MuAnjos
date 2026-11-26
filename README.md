@@ -1,10 +1,10 @@
 # <picture><source media="(prefers-color-scheme: dark)" srcset="headings/intro-dark.svg"><img alt="Hi, I'm Murilo." src="headings/intro-light.svg"></picture>
 
-Software Developer at Compass UOL, working across backend and frontend with Node.js, NestJS, TypeScript, React, and Next.js.
+Software Developer at Compass UOL, working on Vivo’s app. Contributing to solution and software architecture, and building across backend and frontend with Node.js, NestJS, TypeScript, and React.
 
-Information Systems graduate from IFBA, Vitória da Conquista.
+B.Sc. in Information Systems from IFBA, Vitória da Conquista.
 
-*From business problems to working software.*
+Full-time problem solver.
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="headings/tech-stack-dark.svg"><img alt="Tech stack" src="headings/tech-stack-light.svg"></picture>
 
